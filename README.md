@@ -1,6 +1,6 @@
 # Study : News-Article-Issue-Tracking
 
-![Image]()
+<img width="90%" src="/images/01_"/>
 
 ## 1. Introduction
 
