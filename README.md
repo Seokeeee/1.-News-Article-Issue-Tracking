@@ -1,4 +1,4 @@
-# Study : News-Article-Issue-Tracking
+# Project : News-Article-Issue-Tracking
 
 <img width="30%" src="/images/01_Intro.jpg"/>
 
